@@ -13,7 +13,6 @@ main {
   /* border: 2px solid red; */
   min-width: 80%;
   max-width: 80%;
-  /* height: auto; */
   margin: 50px auto;
 }
 
@@ -59,7 +58,6 @@ main {
   color: #212121;
 }
 #form input:focus {
-  /* border: 2px solid #4987fa; */
   border: 3px solid #212121;
   transition: all 0.5s ease;
 }
@@ -94,11 +92,9 @@ main {
   padding: 10px 0px 20px;
 }
 .students div {
-  /* border: 2px solid red; */
   margin: 5px;
 }
 .students h1 {
-  /* margin: 10px 0px 15px; */
   margin: 10px 0px;
 }
 
